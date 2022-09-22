@@ -17,4 +17,4 @@ schema:                            # required
         dns_hostname:               # parameter
           type: string
           description: "The hostname for the Route53 Hosted Zone"
-          default: protonworkshop.hosted.local
+          default: joseaugf.org
